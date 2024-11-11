@@ -1,0 +1,17 @@
+- menu_name: "More"
+
+- name: "Contact Me"
+  url: "/contact/"
+  title: "Contact Info"
+
+#- name: "Images from pexels and unsplash"
+#  url: "https://www.pexels.com/"
+#  title: "Images"
+
+#- name: "Atom"
+#  url: "/atom.xml"
+#  title: "Subscribe to Atom Feed"
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"

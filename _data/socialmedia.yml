@@ -1,0 +1,39 @@
+- name: GitHub
+  url: http://github.com/kunalbahuguna
+  class: icon-github
+  title: "Codes"
+
+- name: YouTube
+  url: http://www.youtube.com/@KunalBahuguna
+  class: icon-youtube
+  title: "Videos"
+
+- name: Instagram
+  url: http://instagram.com/kunal_bahuguna
+  class: icon-instagram
+  title: "Photos"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
