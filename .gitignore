@@ -7,5 +7,4 @@ _site
 Gemfile.lock
 local_info
 temp_stuff
-_layouts
 _drafts
