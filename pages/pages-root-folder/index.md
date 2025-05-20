@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "Coding"
   url: 'http://kunalbahuguna.github.io/coding/'
-  text: 'Codes can be found on <a href="http://github.com/kunalbahuguna">Github page</a>.'
+  text: 'Codes can be found on <a href="http://github.com/kunalbahuguna" target="_blank">Github page</a>.'
   image: coding_front.jpg
 widget3:
   title: "Extras"
@@ -53,8 +53,8 @@ I am Ph.D student working under supervision of Prof. S.V. Raghurama Rao in the D
 
 ## Education {#education}
 
+Ms+PhD., Aerospace Engineering, Indian Institute of Science, Bengaluru, 2018-present.
 B. Tech., Aerospace Engineering, University of Petroleum and Energy Studies, Dehradun, 2013-17.  
-Ms+PhD., Aerospace Engineering, Indian Institute of Science, Bengaluru, 2018-ongoing.
 
 
 

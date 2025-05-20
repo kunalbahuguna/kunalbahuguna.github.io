@@ -1,5 +1,7 @@
 Run locally using 
 bundle exec jekyll serve --baseurl=""
+jekyll serve --config _config.yml,_config_dev.yml
+
 http://127.0.0.1:4000/
 
 To edit stuff->
