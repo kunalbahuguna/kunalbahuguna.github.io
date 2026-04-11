@@ -14,4 +14,4 @@ gem 'coderay', '1.1.1'
 gem 'faraday', '>= 2.14.1'
 gem 'faraday-retry'
 gem "rexml", ">= 3.4.2"
-
+gem "json", ">= 2.19.2"

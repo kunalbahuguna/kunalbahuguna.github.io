@@ -53,7 +53,9 @@ I am Ph.D student working under supervision of Prof. S.V. Raghurama Rao in the D
 
 ## Education {#education}
 
+
 Ms+PhD., Aerospace Engineering, Indian Institute of Science, Bengaluru, 2018-present.
+
 B. Tech., Aerospace Engineering, University of Petroleum and Energy Studies, Dehradun, 2013-17.  
 
 
