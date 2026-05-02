@@ -1,13 +1,16 @@
 ---
+layout: frontpage
+about_image: mug_shot.png
+about_text: |
+  ## About Me
+  I am a Lead Engineer at GE Aerospace, working in the combustion design team, where I focus on CFD methods and their application to combustion design. I am pursuing my Ph.D. in the Department of Aerospace Engineering at the Indian Institute of Science under the supervision of Prof. S.V. Raghurama Rao. My research is centered on developing numerical schemes for compressible fluid flow equations, with a particular emphasis on structure-preserving finite volume schemes for the Euler equations. I am also interested in heuristic optimization algorithms and their application to aerodynamic shape optimization problems, and I have experience in high-performance computing, particularly for combustion simulations.
 #
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
 header:
   image_fullwidth: main_page_header.jpg
-
 widget1:
   title: "Research"
   url: 'http://kunalbahuguna.github.io/research/'
@@ -45,18 +48,18 @@ permalink: /index.html
 #
 homepage: true
 ---
-<br> 
-<br>   
-# About Me   {#about}
+## Experience {#experience}
 
-I am Ph.D student working under supervision of Prof. S.V. Raghurama Rao in the Department of Aerospace Engineering at Indian Institute of Science. My PhD work is primarily focused on developing numerical schemes for compressible fluid flow equations. I specifically work on structure preserving finite volume schemes for the Euler equations. I am also interested in heuristic optimization algorithms and their applications to aerodynamic shape optimization problems.
+• Lead engineer @ GE Aerospace in the combustion design team (currently). 
+
+• Former technical intern at Siemens (2025).
 
 ## Education {#education}
 
 
-Ms+PhD., Aerospace Engineering, Indian Institute of Science, Bengaluru, 2018-present.
+• Ms+PhD., Aerospace Engineering, Indian Institute of Science, Bengaluru, 2018-present.
 
-B. Tech., Aerospace Engineering, University of Petroleum and Energy Studies, Dehradun, 2013-17.  
+• B. Tech., Aerospace Engineering, University of Petroleum and Energy Studies, Dehradun, 2013-17.
 
 
 

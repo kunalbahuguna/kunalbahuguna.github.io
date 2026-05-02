@@ -9,9 +9,24 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+{% if page.about_image and page.about_text %}
+<div class="row" style="display: flex; align-items: center;">
+    <div class="medium-4 columns">
+        <img src="/images/{{ page.about_image }}" alt="About Image" style="width: 100%; height: auto;">
+    </div>
+    <div class="medium-8 columns">
+        {{ page.about_text | markdownify }}
+    </div>
+</div><!-- /.row -->
+
 <div class="row">
     {{ content }}
 </div><!-- /.row -->
+{% else %}
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+{% endif %}
 
 {% comment %}
 *
