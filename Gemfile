@@ -15,3 +15,4 @@ gem 'faraday', '>= 2.14.1'
 gem 'faraday-retry'
 gem "rexml", ">= 3.4.2"
 gem "json", ">= 2.19.2"
+gem "addressable", ">= 2.9.0"
